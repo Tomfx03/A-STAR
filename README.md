@@ -1,7 +1,8 @@
 <h1>ExpNo 4 : Implement A* search algorithm for a Graph</h1> 
 <h3>Name: JAI SURYA R</h3>
 <h3>Register Number:  212223230084     </h3>
-<br<
+<br>
+
 <H3>Aim:</H3>
 <p>To Implement A* Search algorithm for a Graph using Python 3.</p>
 <br>
@@ -225,6 +226,6 @@ G 0 <br>
 <h2>Sample Output</h2>
 <hr>
 Path found: ['A', 'E', 'D', 'G']
-<br>
+
 ## RESULT:
 Implementing A * Search algorithm for a Graph using Python 3. is executed successfully.
