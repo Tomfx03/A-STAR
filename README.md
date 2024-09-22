@@ -1,9 +1,9 @@
 <h1>ExpNo 4 : Implement A* search algorithm for a Graph</h1> 
 <br>
 <h3>Name: JAI SURYA R</h3>
-<br>
+
 <h3>Register Number:  212223230084     </h3>
-<br>
+
 <H3>Aim:</H3>
 <p>To Implement A* Search algorithm for a Graph using Python 3.</p>
 <br>
