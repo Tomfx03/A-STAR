@@ -1,8 +1,7 @@
 <h1>ExpNo 4 : Implement A* search algorithm for a Graph</h1> 
 <h3>Name: JAI SURYA R</h3>
-
 <h3>Register Number:  212223230084     </h3>
-<br>
+<br<
 <H3>Aim:</H3>
 <p>To Implement A* Search algorithm for a Graph using Python 3.</p>
 <br>
@@ -10,7 +9,6 @@
 
 ``````
 // A* Search Algorithm
-<br>
 1.  Initialize the open list
 2.  Initialize the closed list
     put the starting node on the open 
@@ -53,9 +51,7 @@
     end (while loop)
 
 ``````
-<br>
 ## PROGRAM:
-<br>
 ```
 from collections import defaultdict
 H_dist ={}
@@ -130,7 +126,6 @@ return None
 ![image](https://github.com/natsaravanan/19AI405FUNDAMENTALSOFARTIFICIALINTELLIGENCE/assets/87870499/b1377c3f-011a-4c0f-a843-516842ae056a)
 
 <hr>
-<br>
 <h2>Sample Input</h2>
 <hr>
 10 14 <br>
@@ -163,7 +158,6 @@ J 0 <br>
 <hr>
 Path found: ['A', 'F', 'G', 'I', 'J']
 
-<br>
 ## PROGRAM:
 ```
 #define fuction to return neighbor and its distance
